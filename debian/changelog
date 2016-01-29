@@ -1,0 +1,5 @@
+galliumos-cbox (1.0) vivid; urgency=medium
+
+  * Removed battery panel applet
+
+ -- Hugh Greenberg <hugh@galliumos.org>  Thu, 28 Jan 2016 21:05:33 +0000

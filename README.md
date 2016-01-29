@@ -1,2 +1,2 @@
-# galliumos-cbox
-Chromebox specific settings
+# xubuntu-default-settings
+xubuntu default settings
