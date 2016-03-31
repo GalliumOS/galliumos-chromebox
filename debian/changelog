@@ -1,3 +1,9 @@
+galliumos-cbox (2.0) xenon; urgency=medium
+
+  * bump version for xenon
+
+ -- reynhout <reynhout@galliumos.org>  Thu, 31 Mar 2016 17:47:59 +0000
+
 galliumos-cbox (1.0) vivid; urgency=medium
 
   * Removed battery panel applet
