@@ -1,6 +1,7 @@
 galliumos-cbox (2.0) xenon; urgency=medium
 
-  * bump version for xenon
+  * update version string for xenon
+  * update debian/control Replaces to galliumos-default-settings
 
  -- reynhout <reynhout@galliumos.org>  Thu, 31 Mar 2016 17:47:59 +0000
 
