@@ -1,11 +1,11 @@
-Source: galliumos-cbox
+Source: galliumos-chromebox
 Section: x11
 Priority: optional
 Maintainer: GalliumOS <galliumos@galliumos.org>
 Build-Depends: debhelper (>= 8.1.3~)
 Standards-Version: 3.9.6
 
-Package: galliumos-cbox
+Package: galliumos-chromebox
 Architecture: all
 Replaces: galliumos-default-settings
 Pre-Depends: ${misc:Pre-Depends}
